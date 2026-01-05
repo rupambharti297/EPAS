@@ -19,10 +19,3 @@ based on urgency and traffic conditions.
 pip install -r requirements.txt
 python3 main.py
 
-# git 
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/rupambharti297/EPAS.git
-git push -u origin main
